@@ -32,7 +32,7 @@ def home():
 <body>
     <header>
 <h1>عبدالله سالم بارفعه</h1>   
-        <p>مطور/ـة | مهتم/ـة بـ Python و Flask — صفحة تعريفية احترافية</p>
+        <p>مطور | مهتم بـ Python و Flask — صفحة تعريفية احترافية</p>
         <nav>
             <a href="#projects">مشاريعي</a>
             <a href="#contact">تواصل معي</a>
